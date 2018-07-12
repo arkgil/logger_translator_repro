@@ -1,0 +1,3 @@
+%{
+  "supervisor3": {:hex, :supervisor3, "1.1.6", "ecbb44852d6cd022149017f4ce403a58a776b45b20cf5e65f0e9053524df2174", [:make, :rebar, :rebar3], [], "hexpm"},
+}
